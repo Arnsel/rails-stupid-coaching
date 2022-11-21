@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+
+.card {
+  border: none;
+  border-radius: 0%;
+}
+
+
+#coach {
+  background-color: lightyellow;
+}
+
+a:link {
+  text-decoration: none;
+  font-size: medium;
+}
+
